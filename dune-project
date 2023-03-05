@@ -1,4 +1,3 @@
-(lang dune 3.0)
+(lang dune 2.9)
 (name tls)
 (formatting disabled)
-(using mdx 0.2)

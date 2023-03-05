@@ -15,7 +15,7 @@ build: [
 
 depends: [
   "ocaml" {>= "4.08.0"}
-  "dune" {>= "3.0"}
+  "dune" {>= "2.9"}
   "tls" {= version}
   "mirage-crypto-rng-lwt" {>= "0.11.0"}
   "x509" {>= "0.15.0"}
